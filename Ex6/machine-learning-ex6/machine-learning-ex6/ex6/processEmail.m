@@ -18,8 +18,10 @@ word_indices = [];
 % Uncomment the following lines if you are working with raw emails with the
 % full headers
 
-% hdrstart = strfind(email_contents, ([char(10) char(10)]));
-% email_contents = email_contents(hdrstart(1):end);
+ hdrstart = strfind(email_contents,([char(10) char(10)]));
+ if (size(hdrstart) > 0)
+    email_contents = email_contents(hdrstart(1):end);
+ end
 
 % Lower case
 email_contents = lower(email_contents);
@@ -96,18 +98,11 @@ while ~isempty(email_contents)
     % Note: You can use strcmp(str1, str2) to compare two strings (str1 and
     %       str2). It will return 1 only if the two strings are equivalent.
     %
-
-
-
-
-
-
-
-
-
-
+     
+    indices = find (strcmp (str, vocabList));
+    word_indices = [word_indices ; indices];
+    
     % =============================================================
-
 
     % Print to screen, ensuring that the output lines are not too long
     if (l + length(str) + 1) > 78

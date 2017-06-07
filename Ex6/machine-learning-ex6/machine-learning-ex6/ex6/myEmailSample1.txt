@@ -1,0 +1,39 @@
+At Graduway we work from Monday to Friday!
+ 
+·         Please approve sending your CV
+·         Please state your salary expectations
+ 
+ 
+Overview
+Graduway, is expanding its development team and is looking for talented people to join.
+Graduway provide white-labeled alumni networking platforms to schools, universities and companies that wish to offer their past and present students and employees with a way to connect and enjoy exclusive professional opportunities within a trusted and official destination. The platforms are synchronized with all the leading social networks and is used by schools across 14 countries.
+All available positions are located in Raanana.  At Graduway we work from Monday to Friday!
+ 
+ 
+Position 2: Full Stack Mobile and Web developer
+Job description
+Develop and maintain the company’s web and mobile platform. The person hired will report to above team leader.
+Job requirements
+·         Must
+
+o   Web technologies – at least 5 years
+
+o   .NET C# - at least 2 years – Must
+
+o   Javascript - Must
+
+o   Experience with AngularJS – strong advantage
+
+·         Advantage
+
+o   JQuery, HTML 5, CSS 3
+
+o   MVC 5/ WEB API/ Razor
+
+o   Phone-gap / Cordova
+
+o   Entity Framework 6
+
+o   SQL Server 2014
+
+ 
